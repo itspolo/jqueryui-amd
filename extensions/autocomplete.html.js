@@ -1,4 +1,4 @@
-define(['jquery', './autocomplete'], function (jQuery) {
+define(['jquery', '../jqueryui/autocomplete'], function (jQuery) {
 
 /*
  * jQuery UI Autocomplete HTML Extension
