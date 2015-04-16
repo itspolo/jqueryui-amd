@@ -1,4 +1,4 @@
-define(['jquery','jqueryui/datepicker'], function (jQuery) {
+define(['jquery','./datepicker'], function (jQuery) {
 /* English/UK initialisation for the jQuery UI date picker plugin. */
 /* Written by Stuart. */
 jQuery(function($){
